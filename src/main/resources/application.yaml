@@ -1,0 +1,3 @@
+spring.datasource.username: sunshades
+spring.datasource.password: sunshades
+spring.datasource.url: jdbc:mysql://127.0.0.1:3306/sunshades
